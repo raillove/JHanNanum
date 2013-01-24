@@ -1,0 +1,4 @@
+JHanNanum
+=========
+
+Korean morphological analyzer
